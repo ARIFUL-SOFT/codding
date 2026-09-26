@@ -1,0 +1,1 @@
+{"name":"Local: prr","url":"c:\\Users\\Simple Trade Int\\Desktop\\codding\\phitron2.0\\prr.cpp","tests":[{"id":1782499468261,"input":"5\n6 3 2 1 8\n\n4\n\n1\n5\n2\n9\n","output":"YES\nNO\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Simple Trade Int\\Desktop\\codding\\phitron2.0\\prr.cpp","group":"local","local":true}
